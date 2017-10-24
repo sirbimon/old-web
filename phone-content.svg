@@ -1,0 +1,130 @@
+<svg width="52" height="327" viewBox="0 0 52 327" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(45 -314)">
+<g id="Group">
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="translate(-45 432)" fill="#FFB8B8"/>
+</g>
+<g id="Group 2">
+<g id="Ellipse" filter="url(#filter0_d)">
+<use xlink:href="#path1_fill" transform="translate(-36 534)" fill="#FFFFFF"/>
+</g>
+<mask id="mask0_alpha" mask-type="alpha">
+<g id="Ellipse">
+<use xlink:href="#path1_fill" transform="translate(-36 534)" fill="#FFFFFF"/>
+</g>
+</mask>
+<g id="Vector" mask="url(#mask0_alpha)">
+<use xlink:href="#path2_fill" transform="translate(-25.8 517)" fill="#FFBF8F"/>
+</g>
+<g id="Vector" mask="url(#mask0_alpha)">
+<use xlink:href="#path2_fill" transform="matrix(-0.450378 -0.892838 0.892838 -0.450378 -47.5879 579.685)" fill="#004777"/>
+</g>
+<g id="Vector" mask="url(#mask0_alpha)">
+<use xlink:href="#path2_fill" transform="matrix(-0.53789 0.843015 -0.843015 -0.53789 19.2471 568.44)" fill="#66B4E9"/>
+</g>
+</g>
+<g id="Rectangle" filter="url(#filter1_d)">
+<use xlink:href="#path3_fill" transform="translate(-41 468)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle" filter="url(#filter2_d)">
+<use xlink:href="#path4_fill" transform="translate(-41 489)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle" filter="url(#filter3_d)">
+<use xlink:href="#path5_fill" transform="translate(-41 574)" fill="#FFFFFF"/>
+</g>
+<g id="Group 2">
+<g id="Rectangle">
+<use xlink:href="#path6_fill" transform="translate(-37 580)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path6_fill" transform="translate(-37 589)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path6_fill" transform="translate(-37 598)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path6_fill" transform="translate(-37 607)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path6_fill" transform="translate(-37 616)" fill="#C4C4C4"/>
+</g>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path7_fill" transform="translate(-45 314)" fill="#F45B69"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path8_fill" transform="translate(-45 330.63)" fill="#A30000"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path9_fill" transform="matrix(-1 0 0 1 6 346.534)" fill="#ECA72C"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path10_fill" transform="matrix(-1 0 0 1 6 354.668)" fill="#004777"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path7_fill" transform="translate(-45 368)" fill="#F45B69"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path8_fill" transform="translate(-45 384.63)" fill="#A30000"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path9_fill" transform="matrix(-1 0 0 1 6 400.534)" fill="#ECA72C"/>
+</g>
+<g id="Rectangle">
+<use xlink:href="#path11_fill" transform="matrix(-1 0 0 1 6 408.668)" fill="#004777"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-40" y="534" width="42" height="42" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" filterUnits="userSpaceOnUse" x="-45" y="468" width="52" height="25" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" filterUnits="userSpaceOnUse" x="-45" y="489" width="52" height="44" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter3_d" filterUnits="userSpaceOnUse" x="-45" y="574" width="52" height="59" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 0 0L 51 0L 51 209L 0 209L 0 0Z"/>
+<path id="path1_fill" d="M 34 17C 34 26.3888 26.3888 34 17 34C 7.61116 34 0 26.3888 0 17C 0 7.61116 7.61116 0 17 0C 26.3888 0 34 7.61116 34 17Z"/>
+<path id="path2_fill" d="M 27.5088 19.8507L 8.42105 38L 0 15.3134L 1.68421 7.37313L 10.1053 0L 32 4.53731L 27.5088 19.8507Z"/>
+<path id="path3_fill" d="M 0 5C 0 2.23858 2.23858 0 5 0L 39 0C 41.7614 0 44 2.23858 44 5L 44 12C 44 14.7614 41.7614 17 39 17L 5 17C 2.23858 17 0 14.7614 0 12L 0 5Z"/>
+<path id="path4_fill" d="M 0 5C 0 2.23858 2.23858 0 5 0L 39 0C 41.7614 0 44 2.23858 44 5L 44 31C 44 33.7614 41.7614 36 39 36L 5 36C 2.23858 36 0 33.7614 0 31L 0 5Z"/>
+<path id="path5_fill" d="M 0 5C 0 2.23858 2.23858 0 5 0L 39 0C 41.7614 0 44 2.23858 44 5L 44 46C 44 48.7614 41.7614 51 39 51L 5 51C 2.23858 51 0 48.7614 0 46L 0 5Z"/>
+<path id="path6_fill" d="M 0 2C 0 0.89543 0.89543 0 2 0L 34 0C 35.1046 0 36 0.895431 36 2L 36 2C 36 3.10457 35.1046 4 34 4L 2 4C 0.89543 4 0 3.10457 0 2L 0 2Z"/>
+<path id="path7_fill" d="M 0 3.43908C 3.1782 0.621831 4.96009 0.925335 8.1383 3.43908C 20.7805 20.1417 35.0851 11.177 40.5106 3.43908C 45.9362 -4.29885 51 3.43908 51 3.43908L 51 44.5301L 0 44.5301L 0 3.43908Z"/>
+<path id="path8_fill" d="M 0 2.71248C 3.1782 -0.104763 9.5625 13.5867 26.0312 2.71248C 31.3437 10.9361 34 8.81557 40.5106 2.71248C 47.0213 -3.3906 51 2.71248 51 2.71248L 51 43.8035L 0 43.8035L 0 2.71248Z"/>
+<path id="path9_fill" d="M 0 2.71248C 3.1782 -0.104763 4.96009 0.198742 8.1383 2.71248C 20.7805 19.4152 20.7187 8.81557 31.3437 2.71248C 41.9687 -3.39061 51 2.71248 51 2.71248L 51 43.8035L 0 43.8035L 0 2.71248Z"/>
+<path id="path10_fill" d="M 0 6.24066C 3.1782 3.42341 4.96009 3.72692 8.1383 6.24066C 20.7805 22.9433 33.4687 20.2821 31.3437 6.24066C 29.2187 -7.80082 51 6.24066 51 6.24066L 51 47.3317L 0 47.3317L 0 6.24066Z"/>
+<path id="path11_fill" d="M 0 6.24066C 3.1782 3.42341 4.96009 3.72692 8.1383 6.24066C 20.7805 22.9433 33.4687 20.2821 31.3437 6.24066C 29.2187 -7.80082 51 6.24066 51 6.24066L 51 47.3317C 46.0318 44.5126 45 31.3317 37.5 40.5591C 11 63.8317 13.8757 36.2676 0 47.3317L 0 6.24066Z"/>
+</defs>
+</svg>

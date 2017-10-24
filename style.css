@@ -1,0 +1,326 @@
+/*
+Flexbox start
+
+*/
+
+.flex-grid .col {
+  flex: 1;
+}
+
+.h {
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+a {
+	color: black;
+}
+
+.flex-grid-thirds {
+  height: 400px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-grid-nav {
+	height: 45px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.flex-grid-third-row  {
+	height: 400px;
+	display: flex;
+	justify-content: space-between;
+}
+
+#third-row-col {
+	width: 33%;
+	position: relative;
+}
+
+
+.flex-grid-thirds .col {
+  width: 48%;
+}
+
+#title {
+	flex: 3;
+	display: flex;
+	align-items: center;
+  	position: relative;
+  	padding: 20px;
+  	font-size: 140%;
+  	font-weight: 900;
+
+}
+
+#subtitle {
+	flex: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+
+}
+
+@media (max-width: 400px) {
+  .flex-grid,
+  .flex-grid-nav,
+  .flex-grid-thirds {
+    display: block;
+    .col {
+      width: 100%;
+      margin: 0 0 10px 0;
+    }
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  padding: 20px;
+}
+.flex-grid { 
+  margin: 0 0 20px 0;
+}
+.col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding: 20px;
+}
+
+.col-left-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  max-width: 220px;
+  max-height: 300px;
+
+}
+
+.left-text {
+	background-color: 
+}
+
+.moe-name {
+	position: absolute;
+	width: 20%;
+	left: 32%;
+	top: 4%;
+}
+
+
+.glasses {
+  
+  width: 54%; 
+  height: 20%; 
+  position: absolute;
+  top: 23%;
+  left: 19.5%;
+  opacity: 0;
+  
+}
+ 
+.col-right-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  max-width: 200px;
+  max-height: 240px;
+
+}
+
+.third-row-text {
+	font-size: 100%;
+	font-weight: 900;
+}
+
+
+/*
+Third row effects ==============
+*/
+
+.picture-container {
+	display: flex;
+
+}
+
+.picture-svg {
+  	width: 40%;
+  	height: 50%;
+	position: absolute; 
+ 	left: 50%;
+  	top: 50%;
+  	transform: translate(-50%, -50%);
+	
+}
+
+#phone-svg {
+  	width: 50%;
+  	height: 40%;
+	position: relative; 
+ 	left: 50%;
+  	top: 50%;
+  	transform: translate(-50%, -50%);
+}
+
+.phone-contents {
+  	width: 24%;
+  	height: 31.5%;
+	position: absolute; 
+ 	left: 50%;
+  	top: 50%;
+  	max-width: 68px;
+  	min-width: 68px;
+  	transform: translate(-50%, -50%);
+  	overflow: hidden;
+}
+
+.phone-content-container {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	background-color: #FFB8B8;
+}
+
+.phone-content-svg {
+	position: absolute;
+	top: 100%;
+	width: 101.5%;
+}
+
+#third-row-col {
+	transition: 1s;
+}
+
+#third-row-col:hover .picture-svg{
+	transition: 0.5s;
+	top: 45%;
+	left: 60%;
+}
+
+#third-row-col:hover .phone-content-svg {
+	transition: 5s;
+	top: -231%;
+}
+
+#third-row-col:hover .resume-svg{
+	transition: 0.5s;
+	top: 24%;
+	left: 28%;
+}
+
+/*
+Third row effects end ==============
+*/
+
+
+
+/* flexbox end */
+
+
+#profile-photo-id { 
+	position: absolute;
+	height: 300px;
+	/*background-color: pink;*/
+}
+
+
+.row {
+	/*background-color: blue;*/
+	padding-top: 20px;
+}
+
+
+#header{
+	margin-top: 5px;
+	height: 20px;
+	/*background-color: red;*/
+}
+
+.title {
+	position: relative;
+	text-align: center;
+	display: block;
+	padding-top: 15px;
+}
+
+#profile-wrapper {
+	position: relative;
+	margin-top: 50px;
+	width: 325px;
+	height: 300px;
+	/*background-color: green;*/
+	
+}
+
+#text-block {
+	height: 300px;
+}
+
+
+#profile-wrapper:hover {
+	
+}
+
+#glasses-id {
+	/*background-color: red;*/
+	position: absolute;
+	/*margin-top: 10px;*/
+	width: 130px;
+	opacity: 0;
+	top: 78px;
+	left: 46px;
+
+}
+
+h {
+	text-align: center;
+}
+
+.col-right-container:hover .glasses{
+	transition: 1s;
+	margin-top: 20px;
+	opacity: 1; 
+  	top: 26%;
+  	left: 19.5%;
+}
+
+/*
+===============================
+Text Box
+===============================
+*/
+
+#profile-intro-container { 
+	position: relative; 
+	height: 500px; 
+	padding-left: 200px;
+}
+
+.name-animated {
+	position: absolute;
+	opacity: 0.5
+	height: 75px;
+	width: 75px;
+	margin-left: 100px;
+
+	
+}
+
+.introduction-1 {
+	position: absolute;
+	opacity: 0.5;
+	margin-top: 60px;
+	height: 200px;
+
+}
+
+.svg-profile {
+	height: 300px; 
+	position: absolute;
+}
+

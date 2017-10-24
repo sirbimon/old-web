@@ -1,0 +1,44 @@
+<svg width="71" height="91" viewBox="0 0 71 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Resume</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(273 -70)">
+<g id="Resume">
+<g id="Rectangle">
+<use xlink:href="#path0_fill" transform="translate(-273 70)" fill="#F3F3F3"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path1_fill" transform="translate(-266.209 90.2905)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle 3">
+<use xlink:href="#path2_fill" transform="translate(-266 74)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle 2.1">
+<use xlink:href="#path1_fill" transform="translate(-266.209 97.0541)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle 2.2">
+<use xlink:href="#path1_fill" transform="translate(-266.209 103.818)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle 2.3">
+<use xlink:href="#path3_fill" transform="translate(-266.209 110.581)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle 2.4">
+<use xlink:href="#path1_fill" transform="translate(-266.209 121.649)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle 2.5">
+<use xlink:href="#path1_fill" transform="translate(-266.209 128.412)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle 2.6">
+<use xlink:href="#path1_fill" transform="translate(-266.209 135.176)" fill="#C4C4C4"/>
+</g>
+<g id="Rectangle 2.7">
+<use xlink:href="#path3_fill" transform="translate(-266.209 141.939)" fill="#C4C4C4"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 2C 0 0.895431 0.895431 0 2 0L 69 0C 70.1046 0 71 0.895431 71 2L 71 89C 71 90.1046 70.1046 91 69 91L 2 91C 0.895431 91 0 90.1046 0 89L 0 2Z"/>
+<path id="path1_fill" d="M 0 1.84459C 0 0.825853 0.825853 0 1.84459 0L 55.5728 0C 56.5915 0 57.4174 0.825853 57.4174 1.84459C 57.4174 2.86334 56.5915 3.68919 55.5728 3.68919L 1.84459 3.68919C 0.825853 3.68919 0 2.86334 0 1.84459Z"/>
+<path id="path2_fill" d="M 0 3C 0 1.34315 1.34315 0 3 0L 31 0C 32.6569 0 34 1.34315 34 3L 34 8C 34 9.65685 32.6569 11 31 11L 3 11C 1.34315 11 0 9.65685 0 8L 0 3Z"/>
+<path id="path3_fill" d="M 0 1.84459C 0 0.825853 0.825853 0 1.84459 0L 33.9641 0C 34.9828 0 35.8087 0.825853 35.8087 1.84459C 35.8087 2.86334 34.9828 3.68919 33.9641 3.68919L 1.84459 3.68919C 0.825853 3.68919 0 2.86334 0 1.84459Z"/>
+</defs>
+</svg>

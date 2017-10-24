@@ -1,0 +1,25 @@
+<svg width="55" height="111" viewBox="0 0 55 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Phone</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(53 -63)">
+<g id="Phone">
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(-53 63)" fill="#212121"/>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path1_fill" transform="translate(-29 164)" fill="#212121"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(-29 164)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(-29 164)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 8 0C 3.58172 0 0 3.58172 0 8L 0 103C 0 107.418 3.58172 111 8 111L 47 111C 51.4183 111 55 107.418 55 103L 55 8C 55 3.58172 51.4183 0 47 0L 8 0ZM 51 13L 4 13L 4 99L 51 99L 51 13Z"/>
+<path id="path1_fill" d="M 8 4C 8 6.20914 6.20914 8 4 8C 1.79086 8 0 6.20914 0 4C 0 1.79086 1.79086 0 4 0C 6.20914 0 8 1.79086 8 4Z"/>
+<path id="path2_stroke_2x" d="M 7.5 4C 7.5 5.933 5.933 7.5 4 7.5L 4 8.5C 6.48528 8.5 8.5 6.48528 8.5 4L 7.5 4ZM 4 7.5C 2.067 7.5 0.5 5.933 0.5 4L -0.5 4C -0.5 6.48528 1.51472 8.5 4 8.5L 4 7.5ZM 0.5 4C 0.5 2.067 2.067 0.5 4 0.5L 4 -0.5C 1.51472 -0.5 -0.5 1.51472 -0.5 4L 0.5 4ZM 4 0.5C 5.933 0.5 7.5 2.067 7.5 4L 8.5 4C 8.5 1.51472 6.48528 -0.5 4 -0.5L 4 0.5Z"/>
+</defs>
+</svg>

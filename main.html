@@ -1,0 +1,181 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>MY WEBSITE TITLE</title>
+
+    <!--
+    including font awesome - it is nifty for adding icons to your webpage
+    see http://fortawesome.github.io/Font-Awesome/icons/
+    
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+-->
+    <!-- 
+    including bootstrap - it is nifty for pre-styled components
+    see http://getbootstrap.com/components/ for components
+    see https://bootswatch.com/ for other bootstrap themes
+    -->
+    <link href="https://bootswatch.com/yeti/bootstrap.min.css" rel="stylesheet">
+
+    <!-- 
+    including a custom stylesheet that you can edit - css/custom.css
+    -->
+    <link href="style.css" rel="stylesheet">
+
+    <link href="moe.svg" rel="svg">
+    <link href="moe-name-animated.svg" rel="svg">
+    <link href="left-text.svg" rel="svg">
+    <link href="resume.svg" rel="svg">
+    <link href="phone-content.svg" rel="svg">
+    <link href="Picture.png">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,900|Roboto+Mono" rel="stylesheet">
+
+  </head>
+
+<body>
+
+<!--
+	<div class="row" id="header">
+		<div class="container" style="position: relative;">
+			<div class="col-md-6" style="padding-top: 10px; height: 40px; /*background-color: red;*/font-size: 150%; font-family: 'Nunito Sans', sans-serif;">
+			<h class="main-title" style="padding-left: 10%; ">
+				Muhammad Ariwandono
+			</h>
+		</div>
+		<div class="col-md-1 nav" style=" height: 100%; /*background-color: blue; */ font-size: 80%">
+			<h class="title">
+				About
+			</h>
+		</div>
+		<div class="col-md-1" style=" height: 100%; font-size: 80%">
+			<h class="title">
+				Resume
+			</h>
+		</div>
+			<div class="col-md-1" style=" height: 100%; font-size: 80%">
+			<h class="title">
+				Blog
+			</h>
+		</div>
+		<div class="col-md-1" style=" height: 100%; font-size: 80%">
+			<h class="title">
+				Portofolio
+			</h>
+		</div>
+		<div class="col-md-1" style=" height: 100%;font-size: 80%">
+			<h class="title">
+				Contact Me
+			</h>
+		</div>
+		</div>
+		
+	</div>
+-->
+
+	<div class="flex-grid-nav">
+		<div class="col" id="title">Muhammad Ariwandono</div>
+		<div class="col" id="subtitle">About</div>
+		<div class="col" id="subtitle"><a href="https://medium.com/@bimonaretgaariwandono">Medium</a></div>
+		<div class="col" id="subtitle"><a href="resume-designer.pdf">Resume</a></div>
+		<div class="col" id="subtitle"><a href="https://www.behance.net/bimonaretga">Behance</a></div>
+		<div class="col" id="subtitle">
+				<a href="mailto:moe.ariwandono@gmail.com?Subject=Hi%20Moe" target="_top">Contact Me</a>
+		</div>
+	</div>
+
+
+	<div class="flex-grid-thirds">
+	  <div class="col">
+	  	<div class="col-left-container">
+	  		<img src="moe-name-animated.svg" class="moe-name" style="position: absolute;">
+	  		<img src="left-text.svg" style="width: 100%; height: 100%" class="left-text">
+	  	</div>
+	  </div>
+	  <div class="col">
+	    <div class="col-right-container">
+	    	<img src="moe.svg" style="width: 100%; height: 100%">
+	    	<div class="glasses">
+	    		<img src="glasses.svg" style="width:100%; height:100%;">
+	    	</div>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="flex-grid-third-row">
+		<div class="col"  id="third-row-col">
+			<h  class="third-row-text" style="position: absolute; top:14%; font-family: 'Nunito Sans', sans-serif, bold;">
+				R E S U M E
+			</h>
+			<image id="resume-svg" src="resume.svg" style="width: 200px; height: 200px; position: absolute;">
+		</div>
+		<div class="col"  id="third-row-col" style="position: relative;">
+						<h  class="third-row-text" style="position: absolute; top:14%; font-family: 'Nunito Sans', sans-serif, bold;">
+				P R O J E C T S
+			</h>
+			<a href="https://www.github.com/sirbimon">
+			<image src="phone.svg" id="phone-svg" style="position: absolute;">
+
+			<div class="phone-contents">
+				<div class="phone-content-container">
+					<img src="phone-content.svg" class="phone-content-svg">
+				</div>
+			</div>
+			</a>
+		</div>
+		<div class="col" id="third-row-col">
+						<h class="third-row-text" style="position: absolute; top:14%; font-family: 'Nunito Sans', sans-serif, bold;">
+				A R T W O R K
+			</h>
+			<div class="picture-container" ></div>
+			<image src="picture.svg" class="picture-svg" >
+		</div>
+	</div>
+
+<!--
+	SECOND ROW
+
+	
+
+	<div class="row" id="second-row" style="height: 500px; margin-top: 100px">
+		<div class="container">
+			<div class="col-md-6" id="profile-intro-container" style="">
+				<div class="introduction-1">
+					<img src="header.svg" class="svg-profile" style="">
+				</div>
+					<img src="moe-name-animated.svg" class="name-animated">
+			</div>
+
+  			<div class="col-md-6" id="profile-photo">
+  				<div class="center-block" id="profile-wrapper">
+  					<img src="moe.svg" id="profile-photo-id">
+  					<img src="glasses.svg" id="glasses-id">
+  				</div>
+  			</div>
+		</div>
+		
+	</div>
+
+-->
+<!--
+	THIRD ROW
+-->
+<!--
+
+	<div class="row" id="third-row" style="height: 500px; background-color: blue">
+		<div class="container" id="third-row-container">
+			<div class="col-md-6" style="background-color:red; height: 100px;" ></div>
+			<div class="col-md-6" style="background-color: green; height: 100px"></div>
+		</div>
+	</div>
+
+
+
+</body>
+
+-->
