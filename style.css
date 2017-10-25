@@ -3,6 +3,17 @@ Flexbox start
 
 */
 
+#disclaimer {
+	position: relative;
+	visibility: hidden;
+	align-content: center;
+	height: 100%;
+	width: 100%;
+
+
+}
+
+
 .flex-grid .col {
   flex: 1;
 }
@@ -63,15 +74,13 @@ a {
 
 }
 
-@media (max-width: 400px) {
-  .flex-grid,
-  .flex-grid-nav,
-  .flex-grid-thirds {
-    display: block;
-    .col {
-      width: 100%;
-      margin: 0 0 10px 0;
-    }
+@media (max-width: 500px) {
+  #disclaimer {
+  	visibility: visible;
+  }
+
+  .flex-grid-nav {
+  	margin-top: 40px;
   }
 }
 
